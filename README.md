@@ -1,18 +1,21 @@
-# Project Name
+# Movie-UI with vanilla JavaScript 
 
-## About The Project
+## About/Features
+- Using [The Movie DB API ](https://www.themoviedb.org/)to fetch the latest movies and display them in cards. 
+- Each card will diplay an image, overview and rating. 
+- You can search for a title and it will diplay all the movies that has the realtive word in it. 
 
 ## Preview
 
-//Add images
-![Initial view](images/image1.png)
-![Final view](images/image2.png)
+![Initial view](media/image-1.gif)
+![Initial view](media/image-2.gif)
 
-## Built With
 
 ## Installation
 
-Please download the code as a ZIP file and unzip it. No web server required, you can see it live through your locahost by opening index.html with your browser.
+This is a working code example.
+You can copy the CSS and Javascript code as is and use it in your projects.
+Or you can download the code as a ZIP file and unzip it. No web server required, you can see it live through your localhost by opening index.html with your browser. Alternatively, you can open your project with VS Code (download live server extension) and click on **Go Live** at the bottom right corner, it should open in your default browser.
 
 ## Contributing
 
@@ -46,6 +49,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Contact
-
-Shay Asanova - shay.asanova@gmail.com
